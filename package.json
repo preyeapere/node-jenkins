@@ -1,0 +1,15 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "This is a jenkin pipeline to build a docker image using node app and also push the image to dockerhub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
